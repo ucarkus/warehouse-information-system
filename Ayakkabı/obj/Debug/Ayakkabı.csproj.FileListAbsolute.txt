@@ -1,0 +1,34 @@
+C:\Users\Mali\Desktop\Ayakkabı\Ayakkabı\obj\Debug\Ayakkabı.csprojAssemblyReference.cache
+C:\Users\Mali\Desktop\Ayakkabı\Ayakkabı\obj\Debug\Ayakkabı.Form1.resources
+C:\Users\Mali\Desktop\Ayakkabı\Ayakkabı\obj\Debug\Ayakkabı.Properties.Resources.resources
+C:\Users\Mali\Desktop\Ayakkabı\Ayakkabı\obj\Debug\Ayakkabı.csproj.GenerateResource.cache
+C:\Users\Mali\Desktop\Ayakkabı\Ayakkabı\obj\Debug\Ayakkabı.csproj.CoreCompileInputs.cache
+C:\Users\Mali\Desktop\Ayakkabı\Ayakkabı\bin\Debug\Ayakkabı.exe.config
+C:\Users\Mali\Desktop\Ayakkabı\Ayakkabı\bin\Debug\Ayakkabı.exe
+C:\Users\Mali\Desktop\Ayakkabı\Ayakkabı\bin\Debug\Ayakkabı.pdb
+C:\Users\Mali\Desktop\Ayakkabı\Ayakkabı\obj\Debug\Ayakkabı.exe
+C:\Users\Mali\Desktop\Ayakkabı\Ayakkabı\obj\Debug\Ayakkabı.pdb
+C:\Users\Mali\Desktop\Ayakkabı\Ayakkabı\obj\Debug\Ayakkabı.Form2.resources
+C:\Users\Mali\Desktop\Ayakkabı - Kopya\Ayakkabı\bin\Debug\Ayakkabı.exe.config
+C:\Users\Mali\Desktop\Ayakkabı - Kopya\Ayakkabı\bin\Debug\Ayakkabı.exe
+C:\Users\Mali\Desktop\Ayakkabı - Kopya\Ayakkabı\bin\Debug\Ayakkabı.pdb
+C:\Users\Mali\Desktop\Ayakkabı - Kopya\Ayakkabı\obj\Debug\Ayakkabı.csprojAssemblyReference.cache
+C:\Users\Mali\Desktop\Ayakkabı - Kopya\Ayakkabı\obj\Debug\Ayakkabı.Form1.resources
+C:\Users\Mali\Desktop\Ayakkabı - Kopya\Ayakkabı\obj\Debug\Ayakkabı.Form2.resources
+C:\Users\Mali\Desktop\Ayakkabı - Kopya\Ayakkabı\obj\Debug\Ayakkabı.Properties.Resources.resources
+C:\Users\Mali\Desktop\Ayakkabı - Kopya\Ayakkabı\obj\Debug\Ayakkabı.csproj.GenerateResource.cache
+C:\Users\Mali\Desktop\Ayakkabı - Kopya\Ayakkabı\obj\Debug\Ayakkabı.csproj.CoreCompileInputs.cache
+C:\Users\Mali\Desktop\Ayakkabı - Kopya\Ayakkabı\obj\Debug\Ayakkabı.exe
+C:\Users\Mali\Desktop\Ayakkabı - Kopya\Ayakkabı\obj\Debug\Ayakkabı.pdb
+C:\Users\Mali\Desktop\Ayakkabı -\Ayakkabı\bin\Debug\Ayakkabı.exe.config
+C:\Users\Mali\Desktop\Ayakkabı -\Ayakkabı\bin\Debug\Ayakkabı.exe
+C:\Users\Mali\Desktop\Ayakkabı -\Ayakkabı\bin\Debug\Ayakkabı.pdb
+C:\Users\Mali\Desktop\Ayakkabı -\Ayakkabı\obj\Debug\Ayakkabı.csprojAssemblyReference.cache
+C:\Users\Mali\Desktop\Ayakkabı -\Ayakkabı\obj\Debug\Ayakkabı.Form1.resources
+C:\Users\Mali\Desktop\Ayakkabı -\Ayakkabı\obj\Debug\Ayakkabı.Form2.resources
+C:\Users\Mali\Desktop\Ayakkabı -\Ayakkabı\obj\Debug\Ayakkabı.Properties.Resources.resources
+C:\Users\Mali\Desktop\Ayakkabı -\Ayakkabı\obj\Debug\Ayakkabı.csproj.GenerateResource.cache
+C:\Users\Mali\Desktop\Ayakkabı -\Ayakkabı\obj\Debug\Ayakkabı.csproj.CoreCompileInputs.cache
+C:\Users\Mali\Desktop\Ayakkabı -\Ayakkabı\obj\Debug\Ayakkabı.exe
+C:\Users\Mali\Desktop\Ayakkabı -\Ayakkabı\obj\Debug\Ayakkabı.pdb
+C:\Users\Mali\Desktop\Ayakkabı -\Ayakkabı\obj\Debug\Ayakkabı.Form3.resources
